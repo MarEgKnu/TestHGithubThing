@@ -14,6 +14,6 @@ Console.WriteLine("Why not make another branch >w<, by Magnus");
 
 
 Console.WriteLine("Vi elsker alle is");
-Console.WriteLine("Why not make another branch >w<, by Magnus");
+Console.WriteLine("Lets make a branch");
 
 Console.WriteLine("Among Us - Magnus");
