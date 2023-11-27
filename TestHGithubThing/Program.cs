@@ -7,3 +7,5 @@ Console.WriteLine("Kage by Camilla");
 Console.WriteLine("Welcome by Marius");
 
 Console.WriteLine("Why not make another branch >w<, by Magnus");
+
+Console.WriteLine("Among Us - Magnus")
