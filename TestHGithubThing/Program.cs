@@ -8,4 +8,12 @@ Console.WriteLine("Welcome by Marius");
 
 Console.WriteLine("Why not make another branch >w<, by Magnus");
 
-Console.WriteLine("lol");
+
+
+
+
+
+Console.WriteLine("Vi elsker alle is");
+Console.WriteLine("Why not make another branch >w<, by Magnus");
+
+Console.WriteLine("Among Us - Magnus");
